@@ -44,5 +44,7 @@ if __name__ == '__main__':
     print(Lesson.teacher)
     print(p.firstname)
     print(p.lastname)
-        
 
+a = "Hello World"
+b = "Hello"
+print(a[len(b)+1:])
